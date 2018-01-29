@@ -41,6 +41,3 @@ class Caesar(Cipher):
             return ''.join(output)
         else:
             return "Incorrect Cipher Pad. Intruder! Activate machine gun turrets!"
-
-
-
